@@ -8,7 +8,7 @@ import re
 from datetime import datetime
 
 # ─────────────────────────────────────────────
-# Page Config
+# Page Config 
 # ─────────────────────────────────────────────
 st.set_page_config(
     page_title="Global Seismic Trends",
