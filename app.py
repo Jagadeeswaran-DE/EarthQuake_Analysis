@@ -1,15 +1,3 @@
-"""
-Global Seismic Trends: Data-Driven Earthquake Insights
-Streamlit Dashboard – app.py
-
-Run:
-    streamlit run app.py
-
-If using MySQL:
-    Set USE_MYSQL = True and configure DB_* variables below.
-Otherwise the app loads from earthquake_clean.csv automatically.
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
